@@ -5,4 +5,11 @@ This is minimalistic and simple PPM image viewer coded in C++ and SDL2! That you
 Its real simple you just need to compile these 3 files 
 and then you can pass any PPM P6 format photos to the program via terminal
 
-"./imageviewer <Path-To-File>"
+./imageviewer "Path-To-File"
+
+# Downsides
+This image viewer was made on a fast hand and can display any PPM image with P6 format
+But this image viewer didnt support any other formats and even doesnt support P3 PPM format image 
+
+
+This is learning project 
